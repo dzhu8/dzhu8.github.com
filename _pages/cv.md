@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biological Engineering, MIT, 2026 (expected)
+* B.S.EE. in Electrical Engineering w/ Honors, University of Wyoming, 2020
+* B.S. in Molecular Biology w/ Honors, University of Wyoming, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2020-now: Graduate Student Researcher
+  * MIT
+  * Developed computational toolbox for transfer learning, imputation, spatially variable gene identification, cell-cell communication prediction and gene regulation prediction to analyze single-cell and spatial transcriptomic data
+  * Analysis of transcriptomic and serological data in the context of cancer, COVID-19 and mammalian embryogenesis
+  * Cross-species translation of clinical insights from transcriptomics data using autoencoder framework	
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2019-Spring 2020: Undergraduate Researcher and INBRE Fellow
+  * University of Wyoming
+  * Confocal microscopy, photolithography, microfluidics and timelapse image processing to study cytoskeletal dynamics
 
 * Summer 2015: Research Assistant
   * Github University
@@ -47,18 +47,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
-Teaching
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
