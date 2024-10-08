@@ -30,7 +30,7 @@ Ask me about:
 * Computation
   * Programming: Python, HTML
   * Deep learning: PyTorch, CUDA 
-  * Other: Docker, .NET, cloud computing (GCP), web scraping
+  * Other: Docker, .NET, cloud computing (GCP), Linux (& slurm), web scraping
 * Experimentation
   * Confocal microscopy, photolithography, microfluidic fabrication
 * Theory

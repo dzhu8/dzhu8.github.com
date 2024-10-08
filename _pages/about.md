@@ -25,9 +25,10 @@ To me, the ultimate form of artistic expression because you get to eat the art a
 
 ```html
 <div class="image-container">
-  <img src="../images/chinese_new_year.jpg" alt="Egg fried rice, pork potstickers, sweet potato puree, radish, pea shoots, pork char siu, panda-styled red bean bun, fried sesame balls with ube jam" title="Xīnnián kuàilè" />
+  <img src="../images/chinese_new_year.jpg" alt="Egg fried rice, pork potstickers, sweet potato puree, radish, pea shoots, pork char siu, panda-styled red bean bun, fried sesame balls with ube jam" title="Xīnnián kuàilè" style="max-width: 100%; height: auto;" />
   <img src="../images/fancy_thanksgiving.jpg" alt="Turkey roulade, mashed potatoes, potato pave, cranberry gel, assorted vegetables" title="Fancy Thanksgiving" />
 </div>
+```
 
 Baking
 ------ 
