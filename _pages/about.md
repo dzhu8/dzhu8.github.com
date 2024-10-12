@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+This page is a window into both my professional and personal life- feel free to reach out via any of the contact links; I'm happy to chat about anything!
 
 <!-- Include CSS and JS directly in the Markdown file -->
 <style>
@@ -88,111 +90,6 @@ I am a molecular biologist studying the spatiotemporal characteristics of cells 
 Computation
 ======
 I develop analytical computational platforms (see the [Spateo package](https://github.com/aristoteleo/spateo-release)). I am also a hobby programmer always eager to learn more about what we can do with machines. I have recently ventured into developing atomistic protein modeling tools and language modeling (see the Portfolio page for examples!)
-
-Hobbies
-======
-Here are some of the overtly non-scientific things I love to do and am always happy to talk about!
-
-Cooking
------- 
-To me, the ultimate form of artistic expression because you get to eat the art afterwards, and if you're lucky, it's as good as it looks!
-
-<div class="image-row">
-	<div class="image-container">
-		<div class="tooltip">
-			<img src="../images/chinese_new_year.jpg" alt="A dish for Lunar New Year 2022.">
-			<div class="overlay">
-				<div class="tooltiptext">
-					<div class="tooltip-header">"Xīnnián Kuàilè"</div>
-					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">A celebration of the Lunar New Year. Egg fried rice, pork potstickers, sweet potato puree, radish, pea shoots, pork char siu, panda-styled red bean bun, fried sesame balls with ube jam.</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="image-container">
-		<div class="tooltip">
-			<img src="../images/soil_sea_and_sky.jpg" alt="A taste of terrestrial, marine and aerial.">
-			<div class="overlay">
-				<div class="tooltiptext">
-					<div class="tooltip-header">"Soil, Sea and Sky"</div>
-					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">A dish that represents each of the highest-level ecological zones: terrestrial, marine and aerial! Honey garlic salmon, orzo, sirloin steak, broccolini, pea puree, king oyster mushroom, duck, toasted sesame, tomato pearls and a teriyaki sauce & parsley tree.</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="image-container">
-		<div class="tooltip">
-			<img src="../images/fancy_thanksgiving.jpg" alt="A dish for Thanksgiving 2021!">
-			<div class="overlay">
-				<div class="tooltiptext">
-					<div class="tooltip-header">"Elevated Thanksgiving"</div>
-					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">An elevated take on Thanksgiving dinner. Turkey roulade, mashed potatoes, potato pave, cranberry gel, assorted vegetables.</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="image-container">
-		<div class="tooltip">
-			<img src="../images/mediterranean.jpg" alt="A Mediterranean medley">
-			<div class="overlay">
-				<div class="tooltiptext">
-					<div class="tooltip-header">"Mediterranean Medley"</div>
-					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">A miscellaneous Mediterranean mashup! Falafel, pita crisps, tzatziki, yogurt, harissa tahini, pomegranate, mango chutney, cucumber slaw, and basmati rice.</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="image-container">
-		<div class="tooltip">
-			<img src="../images/kbbq.jpg" alt="KBBQ plate">
-			<div class="overlay">
-				<div class="tooltiptext">
-					<div class="tooltip-header">"KBBQ Plate"</div>
-					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">Galbi (Korean BBQ short rib), nasi goreng w/ fried egg, Chinese cabbage slaw with sweet & sour homemade Asian dressing.</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="image-container">
-		<div class="tooltip">
-			<img src="../images/deconstructed_big_mac_meal.jpg" alt="Fancy Big Mac meal">
-			<div class="overlay">
-				<div class="tooltiptext">
-					<div class="tooltip-header">"Deconstructed Big Mac Meal"</div>
-					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">NY strip steak, toasted sesame buns, butter lettuce, pickle, onion, "special sauce", pommes puree, ketchup, Sprite in a wine glass (not pictured).</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-
-Baking
------- 
-I love making cakes for special occasions!
-
-Running
------- 
-No better way to clear your head and relax than with constant searing lung pain! Just kidding, kind of. 
- 
-Magic: The Gathering
------- 
-The greatest tabletop game ever created. A summary of my current EDH decks and favorite parts of the Multiverse.
-
-Video Games
-------
-Currently, my top five video games of all time, in order: 
 
 
   
