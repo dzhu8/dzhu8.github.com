@@ -257,6 +257,7 @@ I love making cakes for special occasions- and sometimes regular occasions.
 Running
 ====== 
 No better way to clear your head and relax than with constant searing lung pain! Just kidding, kind of. 
+I'm on <a href="https://www.strava.com/athletes/83649431">Strava!</a>
 
 <div class="image-row">
 	<div class="image-container">
@@ -278,13 +279,83 @@ Magic: The Gathering
 ====== 
 The best tabletop game there is. A summary of my current EDH decks and favorite parts of the Multiverse.
 
-Eldrazi: nothing quite like reality-warping, dimension-hopping Eldritch horrors capable of acts of unspeakable devastation. 
+<div class="image-row">
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Xenagos.jpg" alt="My oldest deck that I play regularly.">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">"Xenagos"</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">The deck's pretty straightforward and fun. Play a bunch of big timmy creatures, give them haste and 2x their power with Xenagos, donk someone for 10+ in one turn.</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Xyris.jpg" alt="The deck I'm proudest of.">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">"Snakes on a Plane (Xyris)"</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">The deck that I'm proudest of building from both a strength & fun factor. There are multiple different avenues to victory, the deck can create a degenerate number of snakes consistently and often creates some pretty wild turns for everyone at the table because of the group hug core.</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Dragonhawk.jpg" alt="Burn baby, burn.">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">"Feathered Firestorm (Dragonhawk)"</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">My newest deck that I'm currently piloting, designed to hopefully be a thematic dragon tribal deck with treasures, burn damage and of course, dragons!</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 
 Video Games
 ======
 Currently, my top five video games of all time, in order: 
+<ol>
+  <li>The Elder Scrolls V: Skyrim</li>
+  <li>Elden Ring</li>
+  <li>Pokemon Mystery Dungeon: Explorers of Sky</li>
+  <li>World of Warcraft</li>
+  <li>Call of Duty: Black Ops 3</li>
+</ol>
 
+Media (not the biological kind!)
+======
+Some of my favorite movies (not in order, this is too hard):
+* Interstellar
+* Ratatouille (unironically inspired me to learn to cook!)
+* The Dark Knight
+* Good Will Hunting
+* Hereditary
+* Pirates of the Caribbean: The Curse of the Black Pearl
+* The Holdovers
 
-  
+And shows:
+* Jeopardy!
+* Succession
+* Full Metal Alchemist: Brotherhood
+* 
+
+Books:
+* The Great Gatsby
+* 
+* 
+* 
+
+Music:
+* Panic! At the Disco  
 
 
