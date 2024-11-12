@@ -456,7 +456,7 @@ Currently, my top five video games of all time, in order:
 
 <div style="height: 60px;"></div>
 
-Media (not the biological kind!)
+Media (not the biological kind!)- under construction
 ======
 Some of my favorite movies (not in order, this is too hard):
 * Interstellar
@@ -468,7 +468,7 @@ Some of my favorite movies (not in order, this is too hard):
 * Pirates of the Caribbean: The Curse of the Black Pearl
 * La La Land
 
-And shows:
+Shows:
 * Jeopardy!
 * Succession
 * Full Metal Alchemist: Brotherhood
@@ -477,9 +477,9 @@ And shows:
 
 Books (and Manga):
 * The Great Gatsby
-* All the Light We Cannot See
-* Americanah
-* American Gods
+* [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_search=true&from_srp=true&qid=iwxz6E4gij&rank=1)
+* [Americanah](https://www.goodreads.com/book/show/15796700-americanah?from_search=true&from_srp=true&qid=qqW9dzOsfe&rank=1)
+* [American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
 * A Song of Ice and Fire series
 * One Piece
 
