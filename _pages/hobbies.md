@@ -8,6 +8,18 @@ author_profile: true
 {% include base_path %}
 
 <style>
+ol li {
+    margin-top: 1.5px;
+    margin-bottom: 1.5px; /* Adjust this value to control the spacing */
+    padding: 0;
+}
+
+ul li {
+    margin-top: 1.5px;
+    margin-bottom: 1.5px; /* Adjust this value to control the spacing */
+    padding: 0;
+}
+
 .image-row {
   display: flex;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive grid */
@@ -23,6 +35,23 @@ author_profile: true
   flex-shrink: 0;
   overflow: hidden; /* Hide overflow for uniformity */
 }
+
+.cooking-section .image-container {
+    height: 250px;
+}
+
+.baking-section .image-container {
+    height: 250px;
+}
+
+.magic-section .image-container {
+    height: 175px;
+}
+
+.sports-section .image-container {
+    height: 130px;
+}
+
 
 .tooltip {
     height: 100%;
@@ -89,7 +118,7 @@ Cooking
 ======
 To me, the ultimate form of artistic expression because you get to eat the art afterwards, and if you're lucky, it's as good as it looks!
 
-<div class="image-row">
+<div class="image-row cooking-section">
 	<div class="image-container">
 		<div class="tooltip">
 			<img src="../images/chinese_new_year.jpg" alt="A dish for Lunar New Year 2022.">
@@ -169,12 +198,13 @@ To me, the ultimate form of artistic expression because you get to eat the art a
 	</div>
 </div>
 
+<div style="height: 60px;"></div>
 
 Baking
 ======
 I love making cakes for special occasions- and sometimes regular occasions.
 
-<div class="image-row">
+<div class="image-row baking-section">
 	<div class="image-container">
 		<div class="tooltip">
 			<img src="../images/black_forest.jpg" alt="A cake I made for a friend's birthday!">
@@ -254,6 +284,8 @@ I love making cakes for special occasions- and sometimes regular occasions.
 	</div>
 </div>
 
+<div style="height: 60px;"></div>
+
 Running
 ====== 
 No better way to clear your head and relax than with constant searing lung pain! Just kidding, kind of. 
@@ -274,18 +306,19 @@ I'm on <a href="https://www.strava.com/athletes/83649431">Strava!</a>
 	</div>
 </div>
 
+<div style="height: 60px;"></div>
  
 Magic: The Gathering
 ====== 
 The best tabletop game there is. A summary of my current EDH decks and favorite parts of the Multiverse.
 
-<div class="image-row">
+<div class="image-row magic-section">
 	<div class="image-container">
 		<div class="tooltip">
 			<img src="../images/Xenagos.jpg" alt="My oldest deck that I play regularly.">
 			<div class="overlay">
 				<div class="tooltiptext">
-					<div class="tooltip-header">"Xenagos"</div>
+					<div class="tooltip-header">Xenagos</div>
 					<div class="tooltip-separator"></div>
 					<div class="tooltip-description">The deck's pretty straightforward and fun. Play a bunch of big timmy creatures, give them haste and 2x their power with Xenagos, donk someone for 10+ in one turn.</div>
 				</div>
@@ -300,7 +333,7 @@ The best tabletop game there is. A summary of my current EDH decks and favorite 
 				<div class="tooltiptext">
 					<div class="tooltip-header">"Snakes on a Plane (Xyris)"</div>
 					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">The deck that I'm proudest of building from both a strength & fun factor. There are multiple different avenues to victory, the deck can create a degenerate number of snakes consistently and often creates some pretty wild turns for everyone at the table because of the group hug core.</div>
+					<div class="tooltip-description">The deck that I'm proudest of building from both a strength & fun factor- the group hug core and degenerate token-making often leads to some pretty fun games!</div>
 				</div>
 			</div>
 		</div>
@@ -308,22 +341,111 @@ The best tabletop game there is. A summary of my current EDH decks and favorite 
 
 	<div class="image-container">
 		<div class="tooltip">
-			<img src="../images/Dragonhawk.jpg" alt="Burn baby, burn.">
+			<img src="../images/Dragonhawk.png" alt="Burn baby, burn.">
 			<div class="overlay">
 				<div class="tooltiptext">
 					<div class="tooltip-header">"Feathered Firestorm (Dragonhawk)"</div>
 					<div class="tooltip-separator"></div>
-					<div class="tooltip-description">My newest deck that I'm currently piloting, designed to hopefully be a thematic dragon tribal deck with treasures, burn damage and of course, dragons!</div>
+					<div class="tooltip-description">My newest deck that I'm currently piloting, designed to be a thematic dragon tribal deck with treasures, burn damage and of course, dragons!</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
+<div style="height: 60px;"></div>
+
+Sports
+====== 
+I'm an avid sports fan! I became fans of any city-based teams depending on where I was living when I developed an interest in the sport, with the obvious exception of the soccer teams. In the case of the NBA, I also definitely have players I cheer for!
+
+<div class="image-row sports-section">
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Denver-Broncos-logo.png">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">NFL- American Football</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">Denver Broncos- at least we'll always have 2015-16 lol</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Toronto_Raptors-Logo.png">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">NBA- Basketball</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">Toronto Raptors</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Curry.png">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">NBA- Basketball</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description" style="font size: 8px;">Also a major Curry fanboy.</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Toronto-Maple-Leafs-Logo.png">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">NHL- Hockey</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">Toronto Maple Leafs</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/Bayern-Logo.png">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">Soccer</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">FC Bayern Munich</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="image-container">
+		<div class="tooltip">
+			<img src="../images/OpTic-Logo.png">
+			<div class="overlay">
+				<div class="tooltiptext">
+					<div class="tooltip-header">E-Sports</div>
+					<div class="tooltip-separator"></div>
+					<div class="tooltip-description">OpTic Gaming</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div> 
+
+
+<div style="height: 60px;"></div>
 
 Video Games
 ======
-Currently, my top five video games of all time, in order: 
+Currently, my top five video games of all time, in order:
+<div style="height: -20px;"></div> 
 <ol>
   <li>The Elder Scrolls V: Skyrim</li>
   <li>Elden Ring</li>
@@ -332,6 +454,8 @@ Currently, my top five video games of all time, in order:
   <li>Call of Duty: Black Ops 3</li>
 </ol>
 
+<div style="height: 60px;"></div>
+
 Media (not the biological kind!)
 ======
 Some of my favorite movies (not in order, this is too hard):
@@ -339,23 +463,31 @@ Some of my favorite movies (not in order, this is too hard):
 * Ratatouille (unironically inspired me to learn to cook!)
 * The Dark Knight
 * Good Will Hunting
-* Hereditary
+* There Will Be Blood
+* The Social Network
 * Pirates of the Caribbean: The Curse of the Black Pearl
-* The Holdovers
+* La La Land
 
 And shows:
 * Jeopardy!
 * Succession
 * Full Metal Alchemist: Brotherhood
-* 
+* Your Lie in April
+* Shark Tank
 
-Books:
+Books (and Manga):
 * The Great Gatsby
-* 
-* 
-* 
+* All the Light We Cannot See
+* Americanah
+* American Gods
+* A Song of Ice and Fire series
+* One Piece
 
 Music:
-* Panic! At the Disco  
-
-
+* Panic! At the Disco
+* The Band CAMINO
+* AJR
+* Hozier
+* Benson Boone
+* Zach Bryan
+* NF
