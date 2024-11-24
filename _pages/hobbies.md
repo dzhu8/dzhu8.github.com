@@ -442,52 +442,6 @@ I'm an avid sports fan! I became fans of any city-based teams depending on where
 
 <div style="height: 60px;"></div>
 
-Video Games
+Media (not the biological kind!)
 ======
-Currently, my top five video games of all time, in order:
-<div style="height: -20px;"></div> 
-<ol>
-  <li>The Elder Scrolls V: Skyrim</li>
-  <li>Elden Ring</li>
-  <li>Pokemon Mystery Dungeon: Explorers of Sky</li>
-  <li>World of Warcraft</li>
-  <li>Call of Duty: Black Ops 3</li>
-</ol>
-
-<div style="height: 60px;"></div>
-
-Media (not the biological kind!)- under construction
-======
-Some of my favorite movies (not in order, this is too hard):
-* Interstellar
-* Ratatouille (unironically inspired me to learn to cook!)
-* The Dark Knight
-* Good Will Hunting
-* There Will Be Blood
-* The Social Network
-* Pirates of the Caribbean: The Curse of the Black Pearl
-* La La Land
-
-Shows:
-* Jeopardy!
-* Succession
-* Full Metal Alchemist: Brotherhood
-* Your Lie in April
-* Shark Tank
-
-Books (and Manga):
-* The Great Gatsby
-* [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_search=true&from_srp=true&qid=iwxz6E4gij&rank=1)
-* [Americanah](https://www.goodreads.com/book/show/15796700-americanah?from_search=true&from_srp=true&qid=qqW9dzOsfe&rank=1)
-* [American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
-* A Song of Ice and Fire series
-* One Piece
-
-Music:
-* Panic! At the Disco
-* The Band CAMINO
-* AJR
-* Hozier
-* Benson Boone
-* Zach Bryan
-* NF
+Ask me about my favorite video games, movies, manga/anime, and book recommendations!
